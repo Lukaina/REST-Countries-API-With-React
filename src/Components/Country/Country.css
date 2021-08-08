@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Libre+Baskerville:wght@700&family=Philosopher:ital,wght@0,700;1,700&family=Volkhov:ital,wght@1,700&display=swap');
+
+.country-info {
+  display: flex;
+  padding: 10px;
+  margin: 10px;
+  background: #e0e0e0;
+  box-shadow:  7px 7px 10px #c5c5c5,
+             -7px -7px 10px #fbfbfb;
+  border-radius: 11px;
+}
+
+.country-info__image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.country-info__image > img {
+  width: 150px;
+  height: 100px;
+}
+
+.country-info__title {
+  font-size: 28px;
+  font-family: 'Archivo Black', sans-serif;
+  font-family: 'Libre Baskerville', serif;
+  font-family: 'Philosopher', sans-serif;
+  margin: 3px 0;
+}
+
+.country-info__text {
+  margin: 5px 0;
+}
