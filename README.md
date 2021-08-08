@@ -30,6 +30,7 @@ Use the package manager [npm](https://www.npmjs.com/) to install application.
 - Creation Country Component
 - Install Ant Design
 - Define styles
+- Deploy application in Netlify
 
 _Made with ❤_
 
