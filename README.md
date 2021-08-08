@@ -1,6 +1,7 @@
 # Test Rest Countries API With React 👩‍💻
 
 In the following test, the challenge was to show the data returned by the Rest Countries API: https://restcountries.eu/#api-endpoints-a
+To get the data, I used Postman and for the styles, I used native styles with CSS and the Ant Design library. 
 
 <details>
 <summary>Preview 👀</summary>    
