@@ -13,7 +13,7 @@ In the following test, the challenge was to show the data returned by the Rest C
 <img widht="100" height="100" alt="React" src="https://user-images.githubusercontent.com/60724393/128647184-c6526f6f-ccc6-4922-9ff3-88e25225bf9c.png">
 <img widht="100" height="120" alt="CSS" src="https://user-images.githubusercontent.com/60724393/128647228-ee53ede9-3c71-4227-b133-380e58280987.png"> <img widht="100" height="100" alt="Postman" src="https://user-images.githubusercontent.com/60724393/128647206-fee3799d-d639-44fc-9a55-32cb81e644be.png"> <img widht="100" height="100" alt="Ant Design" src="https://user-images.githubusercontent.com/60724393/128647416-750562a0-3fe4-4ce3-adfe-fed4c9ed7cdb.jpg">
 
-## Installation
+## Installation 🔧
 
 Use the package manager [npm](https://www.npmjs.com/) to install application.
 
@@ -24,7 +24,7 @@ Use the package manager [npm](https://www.npmjs.com/) to install application.
 - npm start
 ```
 
-# List Tasks
+# List Tasks 📜
 
 - Getting data
 - Creation Country Component
