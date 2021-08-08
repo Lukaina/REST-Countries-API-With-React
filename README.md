@@ -1,6 +1,6 @@
 # Test Rest Countries API With React 👩‍💻
 
-In the following test, the challenge was to show the data returned by the Rest Countries API: https://restcountries.eu/#api-endpoints-a. To get the data, I used Postman and for the styles, I used native styles with CSS and the Ant Design library. 
+In the following test, the challenge was to show the data returned by the Rest Countries API: https://restcountries.eu/#api-endpoints-a. To get the data, I used Postman and for the styles, I used native styles with CSS and the Ant Design library. For the design part, I chose what is known as Neumorphism: https://medium.com/@brandwarm/let's-talk-about-neumorphism-and-accessibility-8c921cce4576
 
 <details>
 <summary>Preview 👀</summary>    
